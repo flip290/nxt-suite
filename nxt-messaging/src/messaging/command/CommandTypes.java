@@ -1,0 +1,14 @@
+package messaging.command;
+
+public enum CommandTypes {
+  DRIVE_FORWARD,
+  DRIVE_BACKWARD,
+  TURN_LEFT,
+  TURN_RIGHT,
+  START_FOLLOW_LINE_STRATEGY,
+  OVERTAKE,
+  SET_SPEED,
+  SET_STRATEGY,
+  STOP_ROBOT,
+  SWITCH_TO_PID_AUTO,
+}
