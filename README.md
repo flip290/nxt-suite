@@ -25,6 +25,7 @@ The developers:
 
 *Steinfurt, 04.07.2018*
 
+Our Robot setup:
 ![][robot_side]
 ![][app_view_1]
 
