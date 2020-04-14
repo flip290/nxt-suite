@@ -20,7 +20,7 @@ If some questions are left unanwsered, don't hesitate to contact me over this Gi
 The developers:
 - Felix
 - Mouad
-- Phillip
+- Philipp
 - Till
 
 *Steinfurt, 04.07.2018*
